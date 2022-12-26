@@ -1,5 +1,5 @@
 # dining-philosophers-problem
-### This Python application presents a simulation of the Dining Philosophers Problem, attempting to devise a solution
+### This Python application presents a simulation of the Dining Philosophers Problem, attempting to devise a solution using Parallel Programming principles.
 Problem statement: There is a fork between each plate. The dish served is a kind of spaghetti which has to be eaten with two forks. Each philosopher can only alternately think and eat. Moreover, a philosopher can only eat their spaghetti when they have both a left and right fork.
 
 <div align="center">
